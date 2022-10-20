@@ -1,0 +1,58 @@
+body { background-image:url(http://3.bp.blogspot.com/-gP78GgwqUlE/UEa9A_22zRI/AAAAAAAABZA/lbftvKuTYLc/s1600/lluvia%2Bfresca.gif) ;        
+    background-size: cover;
+}
+
+
+
+h1 {color: rgba(22, 176, 247, 0.877);
+ font-size: 3em;}
+h2 { color: rgba(22, 176, 247, 0.877)}    
+
+.header { display: flex;
+       justify-content: space-between ;
+     }
+
+
+a { font-size: 1.2em;
+ text-decoration: none;
+ color: rgb(5, 183, 214);
+ margin:auto;
+ padding: 10px;
+}        
+
+.img-conteiner { display: flex;
+              justify-content:space-around;                 
+             }
+
+
+img { width: 30em;
+   height: 30em;
+   padding: 10px;
+   border:solid 10px rgba(22, 176, 247, 0.877);
+   border-radius: 30%;
+   }                
+
+p { font-size: 2em;
+color: rgb(5, 0, 5);
+}
+
+.twch {color: rgba(0, 54, 78, 0.877);
+   font-size: 1em;
+   text-shadow: none;
+    }
+
+.formulario 
+         {display:flex;
+          justify-content: center; 
+          font-size: 1.5em;
+          color: rgb(4, 2, 138);
+          }
+
+.footer { display: flex;
+       justify-content: space-between;
+      font-size: 1.4em;        
+      }         
+       
+em { font-size: 1.1em;}
+
+div a { color: rgb(3, 7, 235);}
